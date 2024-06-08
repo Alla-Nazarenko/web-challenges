@@ -8,10 +8,37 @@ body {
   font-family: system-ui;
 }
 
-/* put a selector here to select div elements (see index.html) */
-SELECTOR HERE {
+.first {
   font-family: cursive;
   padding: 8px;
+  height: 150px;
+  width: 150px;
+  background-color: hotpink;
+  color: white;
+  border-top-left-radius: 5px;
+  border-radius: 8px;
+}
+
+.second {
+  margin: 10px;
+  padding: 8px;
+  height: 150px;
+  width: 150px;
+
+  font-family: cursive;
+
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkmagenta;
+  
+  background-color: pink;
+  color: black;
+
+  border-top-left-radius: 5px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 25px;
+}
 
   /* set the height and the width of the box to 150px */
 
