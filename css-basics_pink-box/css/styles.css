@@ -30,7 +30,7 @@ body {
   border-width: 2px;
   border-style: solid;
   border-color: darkmagenta;
-  
+
   background-color: pink;
   color: black;
 
@@ -39,6 +39,26 @@ body {
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 25px;
 }
+
+.third {
+  margin: 20px;
+  padding: 15px;
+  height: 150px;
+  width: 150px;
+
+  font-family: cursive;
+
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkmagenta;
+
+  background-color: greenyellow;
+  color: black;
+
+  border-top-left-radius: 5px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 25px;
 
   /* set the height and the width of the box to 150px */
 
